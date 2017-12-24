@@ -17,13 +17,13 @@ if (grade >= 90) {
   alert("You got an F!");
 }
 
-if (grade > 90) {
+if (grade >= 90) {
   alert("You got an A!");
-} else if (grade > 80) {
+} else if (grade >= 80) {
   alert("You got a B!");
-} else if (grade > 70) {
+} else if (grade >= 70) {
   alert("You got a C!");
-} else if (grade > 60) {
+} else if (grade >= 60) {
   alert("You got a D!");
 } else {
   alert("You got an F!");
