@@ -1,3 +1,5 @@
+// This program logs the days of the week in the console
+
 var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
 console.log("The first day of the week is " + days[0]);
