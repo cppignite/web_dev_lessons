@@ -3,7 +3,7 @@
  * on their test score.
  */
 
-var grade = prompt("What is your score (out of 100)?");
+var grade = user_input("What is your score (out of 100)?");
 
 if (grade >= 90) {
   alert("You got an A!");
